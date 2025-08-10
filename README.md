@@ -1,4 +1,4 @@
-````markdown
+
 # 💱 CurrencyProject
 
 C# (WinForms) ile yazılmış **basit döviz kuru takip uygulaması**. Uygulama, bir API'den anlık kurları çeker ve ekranda listeler.
@@ -27,7 +27,7 @@ C# (WinForms) ile yazılmış **basit döviz kuru takip uygulaması**. Uygulama,
    ```bash
    git clone https://github.com/talhapakdil7/CurrencyProject.git
    cd CurrencyProject
-````
+
 
 2. **Visual Studio** ile `CurrencyProject.sln` dosyasını açın.
 3. **NuGet** paketlerini geri yükleyin (örn. `Newtonsoft.Json`).
